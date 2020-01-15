@@ -13,8 +13,5 @@ spring:
     show-sql: true
 
 
-server:
-  port: 9001
-
 
 version: UserProvider01-update
